@@ -1,7 +1,7 @@
 ### Olá! Eu sou Gabriel Oliveira
 
 - 🔭 Hoje eu trabalho para a I2tech
-- 🌱 estudando C#
+- 🌱 Estudando C#
 - 📫 Me contate em: gabrielvicenoliveira@gmail.com
 
 <div align="center">
