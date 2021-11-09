@@ -1,8 +1,8 @@
 ### Olá! Eu sou Gabriel Oliveira
 
-- 🔭 Hoje eu trabalho para a I2tech
-- 🌱 Estudando C#
-- 📫 Me contate em: gabrielvicenoliveira@gmail.com
+- 🔭 Front-end web development
+- 🌱 learning C#
+- 📫 contact me at: gabrielvicenoliveira@gmail.com
 
 <div align="center">
   <a href="https://github.com/GabrielVeneza">
