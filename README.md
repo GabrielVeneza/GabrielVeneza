@@ -1,8 +1,8 @@
-### Olá! Eu sou Gabriel Oliveira
+### Hi! My name is Gabriel Oliveira
 
-- 🔭 Front-end web development
-- 🌱 learning C#
-- 📫 contact me at: gabrielvicenoliveira@gmail.com
+- 🔭 Software Development
+- 🌱 Learning C#
+- 📫 Contact me at: gabrielvicenoliveira@gmail.com
 
 <div align="center">
   <a href="https://github.com/GabrielVeneza">
