@@ -1,7 +1,6 @@
 ### Hi! My name is Gabriel Oliveira
 
 - 🔭 Software Development
-- 🌱 Learning C#
 - 📫 Contact me at: gabrielvicenoliveira@gmail.com
 
 <div align="center">
