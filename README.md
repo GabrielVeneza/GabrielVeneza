@@ -1,7 +1,7 @@
 ### Hi! My name is Gabriel Oliveira
 
 - 🔭 Software Development
-- 📫 Contact me at: http://gabrieloliveira.live/
+- 📫 Contact me at: https://l1nq.com/gabrieloliveira
 <div align="center">
   <a href="https://github.com/GabrielVeneza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielVeneza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
