@@ -1,7 +1,7 @@
 ### Hi! My name is Gabriel Oliveira
 
 - 🔭 Software Development
-- 📫 Contact me at: https://l1nq.com/gabrieloliveira
+- 📫 Contact me at: mailto:gabrielvicenoliveira@gmail.com
 <div align="center">
   <a href="https://github.com/GabrielVeneza">
 </div>
