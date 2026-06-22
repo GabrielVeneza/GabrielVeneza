@@ -25,6 +25,7 @@
   <br/>
   :zap: Github Stats
   <br/>
+  
   ![Gabriel Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielveneza&hide=issues&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielveneza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
